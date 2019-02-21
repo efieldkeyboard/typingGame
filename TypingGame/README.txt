@@ -1,0 +1,2 @@
+Open init.html in browser. 
+Browser width must be >= 800. Basic typing game for practicing uncommon characters, followed by a short comprehension quiz. Progress through 4 levels at increasing speeds. Points based on speed, accuracy, and quiz answer.

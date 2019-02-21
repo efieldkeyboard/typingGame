@@ -1,0 +1,27 @@
+{"lines": [
+{"str": "<element attribute=\"value\">",
+"def": "html syntax"},
+{"str": "document.getElementById(\"name\").childNodes[0].nodeValue;",
+"def": "same as \"inner HTML\""},
+{"str": "name.addEventListener(\"click\", function(){...});",
+"def": "handler creation"},
+{"str": "myDate.setFullYear(myDate.getFullYear() + 2);",
+"def": "myDate.toDateString(); //2019"},
+{"str": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>",
+"def": "XML prolog"},
+{"str": "<root xmlns=\"http://www.unique.com/\">",
+"def": "XML root"},
+{"str": "<element attribute=\"metadata\">value</element>",
+"def": "XML syntax"},
+{"str": "xhr.onreadystatechange = function(){if(xhr.readyState ==",
+"def": "4 && xhr.status == 200)"},
+{"str": "name.style.cssText = 'display: block; width: 100%;'",
+"def": ".setAttribute alternative"},
+{"str": "var filteredArr = someArray.filter(myFun));",
+"def": "Array.prototype.filter(cb)"},
+{"str": "(x,y) => {x + y}; -OR- x => x + 3;",
+"def": "'arrow function' syntax"}
+],
+"symbols": [
+"~", "@", "#", "$", "%", "^", "&", "*", "_", "+", "!", "|", "\\", "/", "?", "`"
+]}
